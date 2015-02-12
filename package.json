@@ -1,0 +1,29 @@
+{
+  "name": "likesbeforelove-server",
+  "version": "1.0.0",
+  "description": "#TNMUM2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geoyws/likesbeforelove-server.git"
+  },
+  "keywords": [
+    "geoyws"
+  ],
+  "author": "geoyws",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geoyws/likesbeforelove-server/issues"
+  },
+  "homepage": "https://github.com/geoyws/likesbeforelove-server",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
