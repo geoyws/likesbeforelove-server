@@ -22,7 +22,7 @@
   "homepage": "https://github.com/geoyws/likesbeforelove-server",
   "engines": {
     "node": "0.10.x",
-    "npm": *
+    "npm": "2.6.x"
   },
   "dependencies": {
     "express": "^4.11.2"
